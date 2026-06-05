@@ -32,7 +32,7 @@ These values are loaded from `model_metadata.json`.
 Try the live deployment here:
 
 ```text
-https://<your-deployment-url>.app
+https://cyber-bullying-tweet-detector-x6c4aydnnblz36aejhf24f.streamlit.app/
 ```
 
 > Replace the placeholder above with your actual deployment URL.
