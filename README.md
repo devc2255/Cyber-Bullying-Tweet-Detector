@@ -35,8 +35,6 @@ Try the live deployment here:
 https://cyber-bullying-tweet-detector-x6c4aydnnblz36aejhf24f.streamlit.app/
 ```
 
-> Replace the placeholder above with your actual deployment URL.
-
 ## Getting Started
 
 ### Prerequisites
