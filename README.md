@@ -29,7 +29,7 @@ These values are loaded from `model_metadata.json`.
 
 ## Live Demo
 
-[![Live Deployment](https://img.shields.io/badge/Status-Live_on_Streamlit-success)](https://cyber-bullying-tweet-detector-x6c4aydnnblz36aejhf24f.streamlit.app/)
+[![Live Deployment](https://img.shields.io/badge/Status-Live_on_Render-success)](https://cyber-bullying-tweet-detector.onrender.com)
 
 
 ## Getting Started
