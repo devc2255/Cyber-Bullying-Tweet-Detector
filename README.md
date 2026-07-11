@@ -69,4 +69,4 @@ Then open the local Streamlit URL shown in the terminal.
 
 ## License
 
-This repository includes a MIT license file.
+This project is licensed under the MIT License. See `LICENSE` for details.
